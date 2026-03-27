@@ -13,4 +13,4 @@ Este projeto implementa conceitos fundamentais de teoria dos grafos, incluindo r
 
 ## Apresentação em Vídeo
 
-[Assista à apresentação do projeto aqui](https://seu-link-de-video-aqui)
+[Assista à apresentação do projeto aqui](https://youtu.be/3EmvOcjw650)
